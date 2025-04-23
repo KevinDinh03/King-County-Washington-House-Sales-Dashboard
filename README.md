@@ -29,5 +29,5 @@ long: Longitude of the area<br>
 </br>
 
 <h3 align="Left">Origin:</h3>
-Dataset link: https://github.com/mochen862/king-county-house-sales
-Direct access to datasets: https://github.com/KevinDinh03/Forex_Analysis_Dashboard/tree/main/Datasets
+Dataset link: https://github.com/mochen862/king-county-house-sales<br>
+Dashboard link: https://public.tableau.com/app/profile/quyet.dinh/viz/Book2_17453864057480/Dashboard1?publish=yes
